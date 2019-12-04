@@ -1,11 +1,12 @@
-# THIS PROJECT IS NO LONGER MAINTAINED
-
 # react-native-qrcode
 A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_code), not only support English.
 
 ## Installation
 ```sh
-npm install react-native-qrcode --save
+yarn add react-native-webview
+yarn add react-native-qrcode@git://github.com/quangtrung2503/react-native-qrcode.git
+cd ./ios
+pod install
 ```
 ## Usage
 ```jsx
