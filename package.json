@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/quangtrung2503/react-native-qrcode.git"
+    "url": "https://github.com/quangtrung2503/react-native-qrcode-rn0.6x.git"
   },
   "keywords": [
     "react-native",
@@ -14,9 +14,9 @@
   "author": "quangtrung2503 <quangtrung2503@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/quangtrung2503/react-native-qrcode/issues"
+    "url": "https://github.com/quangtrung2503/react-native-qrcode-rn0.6x/issues"
   },
-  "homepage": "https://github.com/quangtrung2503/react-native-qrcode#readme",
+  "homepage": "https://github.com/quangtrung2503/react-native-qrcode-rn0.6x#readme",
   "dependencies": {
     "create-react-class": "^15.6.0",
     "prop-types": "^15.5.10",
